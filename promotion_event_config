@@ -1,0 +1,354 @@
+<root>
+<IsOpen>1</IsOpen>
+<StartTime/>
+<EndTime/>
+<Timezone>3</Timezone>
+<ActivityReport>
+<array>
+<Name>Награды</Name>
+<ImageIcon>2</ImageIcon>
+<SmallIcon>1</SmallIcon>
+<StartTime/>
+<EndTime/>
+<ActivityDetail>
+<array>
+<Type>1</Type>
+<DetailContent>
+Нажми «Перейти», чтобы узнать, в каких Акциях ты можешь поучаствовать, чтобы получить Бонус.
+</DetailContent>
+</array>
+</ActivityDetail>
+<ActivityButton>
+<array>
+<ButtonName/>
+<ButtonNameId>34286</ButtonNameId>
+<ButtonType>1</ButtonType>
+<ButtonUrl>
+http://ru-cc.igg.com/event/?g_id=1030059902&amp;signed_key=
+</ButtonUrl>
+</array>
+</ActivityButton>
+<Remark>Uncover the Treasure!</Remark>
+</array>
+<array>
+<Name>60% Бонус!</Name>
+<ImageIcon>3</ImageIcon>
+<SmallIcon>1</SmallIcon>
+<StartTime>2015-06-27 08:00:00</StartTime>
+<EndTime>2015-06-29 07:59:59</EndTime>
+<ActivityDetail>
+<array>
+<Type>1</Type>
+<DetailContent>27.6 08:00 - 29.6 07:59 MSK</DetailContent>
+</array>
+<array>
+<Type>1</Type>
+<DetailContent>
+Мы дадим бесплатный 60% бонус Самоцветов при любом заказе, сделанном во время акции!
+</DetailContent>
+</array>
+</ActivityDetail>
+<ActivityButton>
+<array>
+<ButtonName/>
+<ButtonNameId>34268</ButtonNameId>
+<ButtonType>9</ButtonType>
+<ButtonUrl/>
+</array>
+</ActivityButton>
+<Remark>60% Bonus</Remark>
+</array>
+<array>
+<Name>Разбей яйца!</Name>
+<ImageIcon>2</ImageIcon>
+<SmallIcon>1</SmallIcon>
+<StartTime>2015-06-27 08:00:00</StartTime>
+<EndTime>2015-06-29 07:59:59</EndTime>
+<ActivityDetail>
+<array>
+<Type>1</Type>
+<DetailContent>27.6 08:00 - 29.6 07:59 MSK</DetailContent>
+</array>
+<array>
+<Type>1</Type>
+<DetailContent>
+Психощит руна,Дракон и Князь Тыква (6 звезд) ждут Вас в акции [Разбей яйца]!
+</DetailContent>
+</array>
+</ActivityDetail>
+<ActivityButton>
+<array>
+<ButtonName/>
+<ButtonNameId>34286</ButtonNameId>
+<ButtonType>1</ButtonType>
+<ButtonUrl>
+http://ru-cc.igg.com/event/?g_id=1030059902&amp;signed_key=
+</ButtonUrl>
+</array>
+</ActivityButton>
+<Remark>Smash Egg</Remark>
+</array>
+<array>
+<Name>Летние Подарки!</Name>
+<ImageIcon>2</ImageIcon>
+<SmallIcon>1</SmallIcon>
+<StartTime>2015-06-27 08:00:00</StartTime>
+<EndTime>2015-06-29 07:59:59</EndTime>
+<ActivityDetail>
+<array>
+<Type>1</Type>
+<DetailContent>27.6 08:00 - 29.6 07:59 MSK</DetailContent>
+</array>
+<array>
+<Type>1</Type>
+<DetailContent>Нажми «Перейти», чтобы узнать подробности!</DetailContent>
+</array>
+</ActivityDetail>
+<ActivityButton>
+<array>
+<ButtonName/>
+<ButtonNameId>34286</ButtonNameId>
+<ButtonType>1</ButtonType>
+<ButtonUrl>
+http://ru-cc.igg.com/event/?g_id=1030059902&amp;signed_key=
+</ButtonUrl>
+</array>
+</ActivityButton>
+<Remark>Summer Gift Pack</Remark>
+</array>
+<array>
+<Name>Раздаем Руны!</Name>
+<ImageIcon>2</ImageIcon>
+<SmallIcon>1</SmallIcon>
+<StartTime>2015-06-27 08:00:00</StartTime>
+<EndTime>2015-06-29 07:59:59</EndTime>
+<ActivityDetail>
+<array>
+<Type>1</Type>
+<DetailContent>27.6 08:00 - 29.6 07:59 MSK</DetailContent>
+</array>
+<array>
+<Type>1</Type>
+<DetailContent>
+Во время акции купи от 7800 самоцветов одной покупкой (БЕЗ бонусных самоцветов) и ты получишь 2 Мистич.мешок Рун.
+</DetailContent>
+</array>
+</ActivityDetail>
+<ActivityButton>
+<array>
+<ButtonName/>
+<ButtonNameId>34286</ButtonNameId>
+<ButtonType>1</ButtonType>
+<ButtonUrl>
+http://ru-cc.igg.com/event/?g_id=1030059902&amp;signed_key=
+</ButtonUrl>
+</array>
+</ActivityButton>
+<Remark>Mythic Crest Bag Giveaway!</Remark>
+</array>
+<array>
+<Name>Башня бонусов</Name>
+<ImageIcon>2</ImageIcon>
+<SmallIcon>1</SmallIcon>
+<StartTime>2015-06-29 08:00:00</StartTime>
+<EndTime>2015-06-30 07:59:59</EndTime>
+<ActivityDetail>
+<array>
+<Type>1</Type>
+<DetailContent>29.6 08:00 - 30.6 07:59 MSK</DetailContent>
+</array>
+<array>
+<Type>1</Type>
+<DetailContent>Нажми «Перейти», чтобы узнать подробности!</DetailContent>
+</array>
+</ActivityDetail>
+<ActivityButton>
+<array>
+<ButtonName/>
+<ButtonNameId>34286</ButtonNameId>
+<ButtonType>1</ButtonType>
+<ButtonUrl>
+http://ru-cc.igg.com/event/?g_id=1030059902&amp;signed_key=
+</ButtonUrl>
+</array>
+</ActivityButton>
+<Remark>Tower of Gifts</Remark>
+</array>
+<array>
+<Name>Новая кровь!</Name>
+<ImageIcon>2</ImageIcon>
+<SmallIcon>1</SmallIcon>
+<StartTime>2015-06-29 08:00:00</StartTime>
+<EndTime>2015-06-30 07:59:59</EndTime>
+<ActivityDetail>
+<array>
+<Type>1</Type>
+<DetailContent>29.6 08:00 - 30.6 07:59 MSK</DetailContent>
+</array>
+<array>
+<Type>1</Type>
+<DetailContent>
+Обновляйте таланты и получайте БЕСПЛАТНЫЕ САМОЦВЕТЫ! Нажмите на кнопку [Перейти], чтобы узнать больше!
+</DetailContent>
+</array>
+</ActivityDetail>
+<ActivityButton>
+<array>
+<ButtonName/>
+<ButtonNameId>34286</ButtonNameId>
+<ButtonType>1</ButtonType>
+<ButtonUrl>
+http://ru-cc.igg.com/event/?g_id=1030059902&amp;signed_key=
+</ButtonUrl>
+</array>
+</ActivityButton>
+<Remark>You Refresh, We Give Back!</Remark>
+</array>
+<array>
+<Name>Июньские Подарки!</Name>
+<ImageIcon>2</ImageIcon>
+<SmallIcon>1</SmallIcon>
+<StartTime>2015-06-29 08:00:00</StartTime>
+<EndTime>2015-06-30 07:59:59</EndTime>
+<ActivityDetail>
+<array>
+<Type>1</Type>
+<DetailContent>29.6 08:00 - 30.6 07:59 MSK</DetailContent>
+</array>
+<array>
+<Type>1</Type>
+<DetailContent>Нажми «Перейти», чтобы узнать подробности!</DetailContent>
+</array>
+</ActivityDetail>
+<ActivityButton>
+<array>
+<ButtonName/>
+<ButtonNameId>34286</ButtonNameId>
+<ButtonType>1</ButtonType>
+<ButtonUrl>
+http://ru-cc.igg.com/event/?g_id=1030059902&amp;signed_key=
+</ButtonUrl>
+</array>
+</ActivityButton>
+<Remark>June Gifts</Remark>
+</array>
+<array>
+<Name>55% Бонус!</Name>
+<ImageIcon>3</ImageIcon>
+<SmallIcon>1</SmallIcon>
+<StartTime>2015-06-30 08:00:00</StartTime>
+<EndTime>2015-07-01 07:59:59</EndTime>
+<ActivityDetail>
+<array>
+<Type>1</Type>
+<DetailContent>30.6 08:00 - 1.7 07:59 MSK</DetailContent>
+</array>
+<array>
+<Type>1</Type>
+<DetailContent>
+Мы дадим бесплатный 55% бонус Самоцветов при любом заказе, сделанном во время акции!
+</DetailContent>
+</array>
+</ActivityDetail>
+<ActivityButton>
+<array>
+<ButtonName/>
+<ButtonNameId>34268</ButtonNameId>
+<ButtonType>9</ButtonType>
+<ButtonUrl/>
+</array>
+</ActivityButton>
+<Remark>55% Bonus</Remark>
+</array>
+<array>
+<Name>Значки Почета!</Name>
+<ImageIcon>2</ImageIcon>
+<SmallIcon>1</SmallIcon>
+<StartTime>2015-06-30 08:00:00</StartTime>
+<EndTime>2015-07-01 07:59:59</EndTime>
+<ActivityDetail>
+<array>
+<Type>1</Type>
+<DetailContent>30.6 08:00 - 1.7 07:59 MSK</DetailContent>
+</array>
+<array>
+<Type>1</Type>
+<DetailContent>
+Раздача Значков Почета на заказы более 160 рублей! Нажмите на кнопку [Перейти], чтобы прочитать правила акции!
+</DetailContent>
+</array>
+</ActivityDetail>
+<ActivityButton>
+<array>
+<ButtonName/>
+<ButtonNameId>34286</ButtonNameId>
+<ButtonType>1</ButtonType>
+<ButtonUrl>
+http://ru-cc.igg.com/event/?g_id=1030059902&amp;signed_key=
+</ButtonUrl>
+</array>
+</ActivityButton>
+<Remark>Buy 600 gems, get 1200 HB</Remark>
+</array>
+<array>
+<Name>Легендарный герой?</Name>
+<ImageIcon>2</ImageIcon>
+<SmallIcon>1</SmallIcon>
+<StartTime>2015-06-30 08:00:00</StartTime>
+<EndTime>2015-07-01 07:59:59</EndTime>
+<ActivityDetail>
+<array>
+<Type>1</Type>
+<DetailContent>30.6 08:00 - 1.7 07:59 MSK</DetailContent>
+</array>
+<array>
+<Type>1</Type>
+<DetailContent>
+Получи Карту Легендарного героя бесплатно! Нажми «Перейти», чтобы узнать подробности!
+</DetailContent>
+</array>
+</ActivityDetail>
+<ActivityButton>
+<array>
+<ButtonName/>
+<ButtonNameId>34286</ButtonNameId>
+<ButtonType>1</ButtonType>
+<ButtonUrl>
+http://ru-cc.igg.com/event/?g_id=1030059902&amp;signed_key=
+</ButtonUrl>
+</array>
+</ActivityButton>
+<Remark>Hero Card Blowout!</Remark>
+</array>
+<array>
+<Name>Удачный флип!</Name>
+<ImageIcon>2</ImageIcon>
+<SmallIcon>1</SmallIcon>
+<StartTime>2015-06-30 08:00:00</StartTime>
+<EndTime>2015-07-01 07:59:59</EndTime>
+<ActivityDetail>
+<array>
+<Type>1</Type>
+<DetailContent>30.6 08:00 - 1.7 07:59 MSK</DetailContent>
+</array>
+<array>
+<Type>1</Type>
+<DetailContent>
+Вы можете выиграть самоцветы, кристаллы, значки почета, редкие мешки рун, Фея,Влад дракула,Варлок!
+</DetailContent>
+</array>
+</ActivityDetail>
+<ActivityButton>
+<array>
+<ButtonName/>
+<ButtonNameId>34286</ButtonNameId>
+<ButtonType>1</ButtonType>
+<ButtonUrl>
+http://ru-cc.igg.com/event/?g_id=1030059902&amp;signed_key=
+</ButtonUrl>
+</array>
+</ActivityButton>
+<Remark>Lucky Flippin’</Remark>
+</array>
+</ActivityReport>
+</root>
