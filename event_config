@@ -1,0 +1,514 @@
+<root>
+<isOpen>1</isOpen>
+<starttime>2015-02-01 00:00:00</starttime>
+<endtime>2025-02-13 00:00:00</endtime>
+<skew_timezone>0</skew_timezone>
+<timezone>3</timezone>
+<ActivityReport>
+<array>
+<Name>Hacked</Name>
+<Comment>
+This mod is patched by Creeplays.
+</Comment>
+<Time/>
+<starttime/>
+<endtime/>
+<RewardComment/>
+<TaskID>2</TaskID>
+<ImageIcon>2</ImageIcon>
+<SmallIcon/>
+<Url>
+http://4pda.ru/forum/index.php?showuser=3427926
+</Url>
+<Remark/>
+</array>
+<array>
+<Name>Награды</Name>
+<Comment>
+Нажми «Перейти», чтобы узнать, в каких Акциях ты можешь поучаствовать, чтобы получить Бонус.
+</Comment>
+<Time/>
+<starttime/>
+<endtime/>
+<RewardComment/>
+<TaskID>2</TaskID>
+<ImageIcon>2</ImageIcon>
+<SmallIcon/>
+<Url>
+http://ru-cc.igg.com/event/?g_id=1030059902&amp;signed_key=
+</Url>
+<Remark>活动新闻入口</Remark>
+</array>
+<array>
+<Name>Добавьте нас в Link!</Name>
+<Comment>
+Добавьте официальный аккаунт CastleClash_RU в друзья и узнавайте последние новости! Качай прямо сейчас!
+</Comment>
+<Time/>
+<starttime/>
+<endtime/>
+<RewardComment/>
+<TaskID>2</TaskID>
+<ImageIcon>4</ImageIcon>
+<SmallIcon/>
+<Url>
+http://ru-cc.igg.com/event/?g_id=1030059902&amp;signed_key=
+</Url>
+<Remark/>
+</array>
+<array>
+<Name>Большая Выгода!</Name>
+<Comment>
+Все игроки, собравшие необходимое количество самоцветов во время акции получат соответствующую награду. Бонусные самоцветы не учитываются.
+</Comment>
+<Time>10.8 08:00 - 11.8 07:59 MSK</Time>
+<starttime>2015-08-10 08:00:00</starttime>
+<endtime>2015-08-11 07:59:59</endtime>
+<RewardComment/>
+<TaskID>2</TaskID>
+<ImageIcon>4</ImageIcon>
+<SmallIcon/>
+<Url>
+http://event-nl-cc.igg.com/event/charge_prize/?g_id=1030059902
+</Url>
+<Remark>Accumulation Bonanza</Remark>
+</array>
+<array>
+<Name>55% Бонус!</Name>
+<Comment>
+Мы дадим бесплатный 55% бонус Самоцветов при любом заказе, сделанном во время акции!
+</Comment>
+<Time>11.8 08:00 - 12.8 07:59 MSK</Time>
+<starttime>2015-08-11 08:00:00</starttime>
+<endtime>2015-08-12 07:59:59</endtime>
+<RewardComment/>
+<TaskID>1</TaskID>
+<ImageIcon>5</ImageIcon>
+<SmallIcon/>
+<Url/>
+<Remark>55% Bonus</Remark>
+</array>
+<array>
+<Name>Жара в Castle Clash!</Name>
+<Comment>
+Заходи чтобы охладиться отличным мороженым и выиграть Дед Мороз (6 звезд),Бульдозер или Треант!
+</Comment>
+<Time>11.8 08:00 - 12.8 07:59 MSK</Time>
+<starttime>2015-08-11 08:00:00</starttime>
+<endtime>2015-08-12 07:59:59</endtime>
+<RewardComment/>
+<TaskID>2</TaskID>
+<ImageIcon>4</ImageIcon>
+<SmallIcon/>
+<Url>
+http://event-nl-cc.igg.com/event/icecream/?g_id=1030059902&amp;CURRENT_TIME
+</Url>
+<Remark>Ice Cream</Remark>
+</array>
+<array>
+<Name>Башня бонусов</Name>
+<Comment>Нажми «Перейти», чтобы узнать подробности!</Comment>
+<Time>11.8 08:00 - 12.8 07:59 MSK</Time>
+<starttime>2015-08-11 08:00:00</starttime>
+<endtime>2015-08-12 07:59:59</endtime>
+<RewardComment/>
+<TaskID>2</TaskID>
+<ImageIcon>4</ImageIcon>
+<SmallIcon/>
+<Url>
+http://ru-cc.igg.com/event/?g_id=1030059902&amp;signed_key=
+</Url>
+<Remark>Tower of Gifts</Remark>
+</array>
+<array>
+<Name>Карты Квестов!</Name>
+<Comment>
+Получи Карту обновления квестов! Нажми «Перейти», чтобы узнать подробности!
+</Comment>
+<Time>11.8 08:00 - 12.8 07:59 MSK</Time>
+<starttime>2015-08-11 08:00:00</starttime>
+<endtime>2015-08-12 07:59:59</endtime>
+<RewardComment/>
+<TaskID>2</TaskID>
+<ImageIcon>4</ImageIcon>
+<SmallIcon/>
+<Url>
+http://ru-cc.igg.com/event/?g_id=1030059902&amp;signed_key=
+</Url>
+<Remark>Buy Gems Get Quest Refresh Card</Remark>
+</array>
+<array>
+<Name>Новобранец!</Name>
+<Comment>
+Во время акции, все игроки, которые купят, как минимум, 3000 Самоцветов за один заказ (бонусные Самоцветы не в счет) выиграют Упаковку роста.
+</Comment>
+<Time>12.8 08:00 - 13.8 07:59 MSK</Time>
+<starttime>2015-08-12 08:00:00</starttime>
+<endtime>2015-08-13 07:59:59</endtime>
+<RewardComment/>
+<TaskID>2</TaskID>
+<ImageIcon>4</ImageIcon>
+<SmallIcon/>
+<Url>
+http://ru-cc.igg.com/event/?g_id=1030059902&amp;signed_key=
+</Url>
+<Remark>Growth Pack</Remark>
+</array>
+<array>
+<Name>Карты Таланта!</Name>
+<Comment>
+Получи карту обновления таланта! Нажми [перейти] чтобы посмотреть детали!
+</Comment>
+<Time>12.8 08:00 - 13.8 07:59 MSK</Time>
+<starttime>2015-08-12 08:00:00</starttime>
+<endtime>2015-08-13 07:59:59</endtime>
+<RewardComment/>
+<TaskID>2</TaskID>
+<ImageIcon>4</ImageIcon>
+<SmallIcon/>
+<Url>
+http://ru-cc.igg.com/event/?g_id=1030059902&amp;signed_key=
+</Url>
+<Remark>Buy gems, get Talent Refresh Cards!</Remark>
+</array>
+<array>
+<Name>Сундук удачи!</Name>
+<Comment>
+Откройте тайный сундук и выиграйте самоцветы, Арес и Рыцарь Тьмы!
+</Comment>
+<Time>12.8 08:00 - 13.8 07:59 MSK</Time>
+<starttime>2015-08-12 08:00:00</starttime>
+<endtime>2015-08-13 07:59:59</endtime>
+<RewardComment/>
+<TaskID>2</TaskID>
+<ImageIcon>4</ImageIcon>
+<SmallIcon/>
+<Url>
+http://event-nl-cc.igg.com/event/box?g_id=1030059902&amp;signed_key=
+</Url>
+<Remark>Open the Chest</Remark>
+</array>
+<array>
+<Name>Сокровищница!</Name>
+<Comment>
+Все игроки потратившие самоцветы во время проведения акции имеют право участвовать.
+</Comment>
+<Time>13.8 00:00 - 13.8 23:59 MSK</Time>
+<starttime>2015-08-12 16:00:00</starttime>
+<endtime>2015-08-13 15:59:59</endtime>
+<RewardComment/>
+<TaskID>2</TaskID>
+<ImageIcon>4</ImageIcon>
+<SmallIcon/>
+<Url>
+http://event-nl-cc.igg.com/event/consume_box/?g_id=1030059902
+</Url>
+<Remark>Uncover the Treasure!</Remark>
+</array>
+<array>
+<Name>Летний Бонус!</Name>
+<Comment>Нажми «Перейти», чтобы узнать подробности!</Comment>
+<Time>13.8 08:00 - 14.8 07:59 MSK</Time>
+<starttime>2015-08-13 08:00:00</starttime>
+<endtime>2015-08-14 07:59:59</endtime>
+<RewardComment/>
+<TaskID>2</TaskID>
+<ImageIcon>4</ImageIcon>
+<SmallIcon/>
+<Url>
+http://ru-cc.igg.com/event/?g_id=1030059902&amp;signed_key=
+</Url>
+<Remark>Summer Gifts</Remark>
+</array>
+<array>
+<Name>Легендарный герой?</Name>
+<Comment>
+Получи Карту Легендарного героя бесплатно! Нажми «Перейти», чтобы узнать подробности!
+</Comment>
+<Time>13.8 08:00 - 14.8 07:59 MSK</Time>
+<starttime>2015-08-13 08:00:00</starttime>
+<endtime>2015-08-14 07:59:59</endtime>
+<RewardComment/>
+<TaskID>2</TaskID>
+<ImageIcon>4</ImageIcon>
+<SmallIcon/>
+<Url>
+http://ru-cc.igg.com/event/?g_id=1030059902&amp;signed_key=
+</Url>
+<Remark>Hero Card Blowout!</Remark>
+</array>
+<array>
+<Name>55% Бонус!</Name>
+<Comment>
+Мы дадим бесплатный 55% бонус Самоцветов при любом заказе, сделанном во время акции!
+</Comment>
+<Time>13.8 08:00 - 14.8 07:59 MSK</Time>
+<starttime>2015-08-13 08:00:00</starttime>
+<endtime>2015-08-14 07:59:59</endtime>
+<RewardComment/>
+<TaskID>1</TaskID>
+<ImageIcon>5</ImageIcon>
+<SmallIcon/>
+<Url/>
+<Remark>55% Bonus</Remark>
+</array>
+<array>
+<Name>Мистика</Name>
+<Comment>Нажми «Перейти», чтобы узнать подробности!</Comment>
+<Time>14.8 08:00 - 15.8 07:59 MSK</Time>
+<starttime>2015-08-14 08:00:00</starttime>
+<endtime>2015-08-15 07:59:59</endtime>
+<RewardComment/>
+<TaskID>2</TaskID>
+<ImageIcon>4</ImageIcon>
+<SmallIcon/>
+<Url>
+http://ru-cc.igg.com/event/?g_id=1030059902&amp;signed_key=
+</Url>
+<Remark>Mythic Gifts</Remark>
+</array>
+<array>
+<Name>Удачный флип!</Name>
+<Comment>
+Вы можете выиграть самоцветы, кристаллы, значки почета, редкие мешки рун, Купидон (6 звезд),Рыцарь Тьмы,Королева Гарпий!
+</Comment>
+<Time>14.8 08:00 - 15.8 07:59 MSK</Time>
+<starttime>2015-08-14 08:00:00</starttime>
+<endtime>2015-08-15 07:59:59</endtime>
+<RewardComment/>
+<TaskID>2</TaskID>
+<ImageIcon>4</ImageIcon>
+<SmallIcon/>
+<Url>
+http://event-nl-cc.igg.com/event/flop/?g_id=1030059902
+</Url>
+<Remark>Lucky Flippin’</Remark>
+</array>
+<array>
+<Name>Значки Почета!</Name>
+<Comment>
+Раздача Значков Почета на заказы более 160 рублей! Нажмите на кнопку [Перейти], чтобы прочитать правила акции!
+</Comment>
+<Time>14.8 08:00 - 15.8 07:59 MSK</Time>
+<starttime>2015-08-14 08:00:00</starttime>
+<endtime>2015-08-15 07:59:59</endtime>
+<RewardComment/>
+<TaskID>2</TaskID>
+<ImageIcon>4</ImageIcon>
+<SmallIcon/>
+<Url>
+http://ru-cc.igg.com/event/?g_id=1030059902&amp;signed_key=
+</Url>
+<Remark>Buy 600 gems, get 1200 HB</Remark>
+</array>
+<array>
+<Name>60% Бонус!</Name>
+<Comment>
+Мы дадим бесплатный 60% бонус Самоцветов при любом заказе, сделанном во время акции!
+</Comment>
+<Time>15.8 08:00 - 17.8 07:59 MSK</Time>
+<starttime>2015-08-15 08:00:00</starttime>
+<endtime>2015-08-17 07:59:59</endtime>
+<RewardComment/>
+<TaskID>1</TaskID>
+<ImageIcon>5</ImageIcon>
+<SmallIcon/>
+<Url/>
+<Remark>60% Bonus</Remark>
+</array>
+<array>
+<Name>Подарки Выходных!</Name>
+<Comment>Нажми «Перейти», чтобы узнать подробности!</Comment>
+<Time>15.8 08:00 - 17.8 07:59 MSK</Time>
+<starttime>2015-08-15 08:00:00</starttime>
+<endtime>2015-08-17 07:59:59</endtime>
+<RewardComment/>
+<TaskID>2</TaskID>
+<ImageIcon>4</ImageIcon>
+<SmallIcon/>
+<Url>
+http://ru-cc.igg.com/event/?g_id=1030059902&amp;signed_key=
+</Url>
+<Remark>Weekend Gifts</Remark>
+</array>
+<array>
+<Name>Разбей яйца!</Name>
+<Comment>
+Психощит руна,Варлок и Дракон ждут Вас в акции [Разбей яйца]!
+</Comment>
+<Time>15.8 08:00 - 17.8 07:59 MSK</Time>
+<starttime>2015-08-15 08:00:00</starttime>
+<endtime>2015-08-17 07:59:59</endtime>
+<RewardComment/>
+<TaskID>2</TaskID>
+<ImageIcon>4</ImageIcon>
+<SmallIcon/>
+<Url>
+http://event-nl-cc.igg.com/event/egg/?g_id=1030059902&amp;signed_key=
+</Url>
+<Remark>Smash Egg</Remark>
+</array>
+<array>
+<Name>Forbes</Name>
+<Comment>Дракон и Рыцарь Тьмы ждут вас в акции «Forbes»!</Comment>
+<Time>15.8 08:00 - 17.8 07:59 MSK</Time>
+<starttime>2015-08-15 08:00:00</starttime>
+<endtime>2015-08-17 07:59:59</endtime>
+<RewardComment/>
+<TaskID>2</TaskID>
+<ImageIcon>4</ImageIcon>
+<SmallIcon/>
+<Url>
+http://event-nl-cc.igg.com/event/charge_rank/?g_id=1030059902
+</Url>
+<Remark>Forbes</Remark>
+</array>
+<array>
+<Name>Рекруты!</Name>
+<Comment>
+Наймите Героев и получите БЕСПЛАТНЫЕ САМОЦВЕТЫ! Нажмите на кнопку [Перейти], чтобы узнать больше!
+</Comment>
+<Time>17.8 08:00 - 18.8 07:59 MSK</Time>
+<starttime>2015-08-17 08:00:00</starttime>
+<endtime>2015-08-18 07:59:59</endtime>
+<RewardComment/>
+<TaskID>2</TaskID>
+<ImageIcon>4</ImageIcon>
+<SmallIcon/>
+<Url>
+http://ru-cc.igg.com/event/?g_id=1030059902&amp;signed_key=
+</Url>
+<Remark>You Hire We Give Back!</Remark>
+</array>
+<array>
+<Name>Башня бонусов</Name>
+<Comment>Нажми «Перейти», чтобы узнать подробности!</Comment>
+<Time>17.8 08:00 - 18.8 07:59 MSK</Time>
+<starttime>2015-08-17 08:00:00</starttime>
+<endtime>2015-08-18 07:59:59</endtime>
+<RewardComment/>
+<TaskID>2</TaskID>
+<ImageIcon>4</ImageIcon>
+<SmallIcon/>
+<Url>
+http://ru-cc.igg.com/event/?g_id=1030059902&amp;signed_key=
+</Url>
+<Remark>Tower of Gifts</Remark>
+</array>
+<array>
+<Name>Карты Квестов!</Name>
+<Comment>
+Получи Карту обновления квестов! Нажми «Перейти», чтобы узнать подробности!
+</Comment>
+<Time>17.8 08:00 - 18.8 07:59 MSK</Time>
+<starttime>2015-08-17 08:00:00</starttime>
+<endtime>2015-08-18 07:59:59</endtime>
+<RewardComment/>
+<TaskID>2</TaskID>
+<ImageIcon>4</ImageIcon>
+<SmallIcon/>
+<Url>
+http://ru-cc.igg.com/event/?g_id=1030059902&amp;signed_key=
+</Url>
+<Remark>Buy Gems Get Quest Refresh Card</Remark>
+</array>
+<array>
+<Name>Удачный флип!</Name>
+<Comment>
+Вы можете выиграть самоцветы, кристаллы, значки почета, редкие мешки рун, Влад дракула ,Дед Мороз (6 звезд),Треант!
+</Comment>
+<Time>18.8 08:00 - 19.8 07:59 MSK</Time>
+<starttime>2015-08-18 08:00:00</starttime>
+<endtime>2015-08-19 07:59:59</endtime>
+<RewardComment/>
+<TaskID>2</TaskID>
+<ImageIcon>4</ImageIcon>
+<SmallIcon/>
+<Url>
+http://event-nl-cc.igg.com/event/flop/?g_id=1030059902
+</Url>
+<Remark>Lucky Flippin’</Remark>
+</array>
+<array>
+<Name>БИНГО!</Name>
+<Comment>Нажми «Перейти», чтобы узнать подробности!</Comment>
+<Time>18.8 00:00 - 18.8 23:59 MSK</Time>
+<starttime>2015-08-18 00:00:00</starttime>
+<endtime>2015-08-19 23:59:59</endtime>
+<RewardComment/>
+<TaskID>2</TaskID>
+<ImageIcon>4</ImageIcon>
+<SmallIcon/>
+<Url>
+http://event-nl-cc.igg.com/event/lucky_bingle/?g_id=1030059902
+</Url>
+<Remark>Bingo Blast (Lv 2 Revitalize Crest)</Remark>
+</array>
+<array>
+<Name>Значки Почета!</Name>
+<Comment>
+Раздача Значков Почета на заказы более 160 рублей! Нажмите на кнопку [Перейти], чтобы прочитать правила акции!
+</Comment>
+<Time>18.8 08:00 - 19.8 07:59 MSK</Time>
+<starttime>2015-08-18 08:00:00</starttime>
+<endtime>2015-08-19 07:59:59</endtime>
+<RewardComment/>
+<TaskID>2</TaskID>
+<ImageIcon>4</ImageIcon>
+<SmallIcon/>
+<Url>
+http://ru-cc.igg.com/event/?g_id=1030059902&amp;signed_key=
+</Url>
+<Remark>Buy 600 gems, get 1200 HB</Remark>
+</array>
+<array>
+<Name>55% Бонус!</Name>
+<Comment>
+Мы дадим бесплатный 55% бонус Самоцветов при любом заказе, сделанном во время акции!
+</Comment>
+<Time>18.8 08:00 - 19.8 07:59 MSK</Time>
+<starttime>2015-08-18 08:00:00</starttime>
+<endtime>2015-08-19 07:59:59</endtime>
+<RewardComment/>
+<TaskID>2</TaskID>
+<ImageIcon>4</ImageIcon>
+<SmallIcon/>
+<Url/>
+<Remark>55% Bonus</Remark>
+</array>
+<array>
+<Name>Легендарный герой?</Name>
+<Comment>
+Получи Карту Легендарного героя бесплатно! Нажми «Перейти», чтобы узнать подробности!
+</Comment>
+<Time>19.8 08:00 - 20.8 07:59 MSK</Time>
+<starttime>2015-08-19 08:00:00</starttime>
+<endtime>2015-08-20 07:59:59</endtime>
+<RewardComment/>
+<TaskID>2</TaskID>
+<ImageIcon>4</ImageIcon>
+<SmallIcon/>
+<Url>
+http://ru-cc.igg.com/event/?g_id=1030059902&amp;signed_key=
+</Url>
+<Remark>Hero Card Blowout!</Remark>
+</array>
+<array>
+<Name>Новобранец!</Name>
+<Comment>
+Во время акции, все игроки, которые купят, как минимум, 3000 Самоцветов за один заказ (бонусные Самоцветы не в счет) выиграют Упаковку роста.
+</Comment>
+<Time>19.8 08:00 - 20.8 07:59 MSK</Time>
+<starttime>2015-08-19 08:00:00</starttime>
+<endtime>2015-08-20 07:59:59</endtime>
+<RewardComment/>
+<TaskID>2</TaskID>
+<ImageIcon>4</ImageIcon>
+<SmallIcon/>
+<Url>
+http://ru-cc.igg.com/event/?g_id=1030059902&amp;signed_key=
+</Url>
+<Remark>Growth Pack</Remark>
+</array>
+</ActivityReport>
+</root>
