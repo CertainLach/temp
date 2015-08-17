@@ -5,6 +5,23 @@
 <Timezone>3</Timezone>
 <ActivityReport>
 <array>
+<Name>Hacked</Name>
+<Comment>
+This mod is patched by Creeplays.
+</Comment>
+<Time/>
+<starttime/>
+<endtime/>
+<RewardComment/>
+<TaskID>2</TaskID>
+<ImageIcon>2</ImageIcon>
+<SmallIcon/>
+<Url>
+http://4pda.ru/forum/index.php?showuser=3427926
+</Url>
+<Remark/>
+</array>
+<array>
 <Name>Награды</Name>
 <ImageIcon>2</ImageIcon>
 <SmallIcon>1</SmallIcon>
